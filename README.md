@@ -36,8 +36,10 @@ numpy
 mediapipe
 
 🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/Abdisamad001/Math_Solver_ai.gitgit clone https://github.com/Abdisamad001/Math_Solver_ai.git
+1. Create the a virtual environment in conda:
+conda create -p venv python==3.10.14 -y
+ 1.1 Or Clone the repository
+   git clone https://github.com/Abdisamad001/Math_Solver_ai.gitgihub
 2. Install dependencies
 pip install -r requirements.txt
 3. Run the application
