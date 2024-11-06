@@ -44,23 +44,27 @@ conda create -p venv python==3.10.14 -y
 pip install -r requirements.txt
 3. Run the application
 streamlit run main.py
+
 🎮 Usage Guide
 Hand Gestures:
 ☝️ Index finger up: Drawing mode
 👍 Thumb up: Clear screen
 🖐️ All fingers up (except pinky): Trigger AI solving
+
 📂 Project Structure
 📜 main.py - Core application script
 📄 requirements.txt - Project dependencies
 🖼️ solver.png - Application banner
 📝 README.md - Documentation
 🔧 .gitignore - Git configuration
+
 ⚙️ Core Components
 📹 Webcam Integration
 👆 Hand Tracking Module
 🎨 Virtual Canvas
 🤖 AI Integration
 🖥️ Streamlit Interface
+
 💡 Features in Detail
 Hand Detection
 Real-time hand landmark tracking
@@ -74,15 +78,19 @@ AI Integration
 Google Gemini AI model
 Image-to-text processing
 Mathematical problem solving
+
+
 🤝 Contributing
 Fork the repository
 Create a feature branch
 Commit changes
 Push to the branch
 Open a pull request
-📄 License
-MIT License
+
+
 
 📞 Contact
 GitHub: @Abdisamad001
 Email: abdisamad.oma@gmail.com
+📄 License
+MIT License
